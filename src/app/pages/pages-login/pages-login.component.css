@@ -1,0 +1,7 @@
+.logo-minedu {
+  display: flex;
+  align-items: center;
+  max-width: 350px;
+  max-height: 150px;
+}
+/*logo d-flex align-items-center w-auto*/

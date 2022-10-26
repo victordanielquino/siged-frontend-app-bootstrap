@@ -1,0 +1,11 @@
+table {
+  width: 100%;
+  border-color: #eeeeee;
+}
+.paginacion {
+  /*background: red;*/
+  margin-top: 10px;
+  /*display: flex;*/
+  /*align-items: center;*/
+  /*justify-items: center;*/
+}
